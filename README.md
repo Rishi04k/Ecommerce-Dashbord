@@ -5,7 +5,10 @@
 This Power BI dashboard provides an interactive visual representation of Ecommerce Sales Data, consolidated from two datasets. It enables business stakeholders to track and analyze key performance indicators (KPIs), sales trends, profit metrics, product categories, customer behavior, and regional performance.
 
 
+
 🖼️ Dashboard Screenshot
+
+
 <img width="1309" height="713" alt="Screenshot 2025-08-06 160535" src="https://github.com/user-attachments/assets/8f956c82-358f-433c-b6a1-7e21d6355ac7" />
 
 
