@@ -9,8 +9,7 @@ This Power BI dashboard provides an interactive visual representation of Ecommer
 🖼️ Dashboard Screenshot
 
 
-<img width="1309" height="713" alt="Screenshot 2025-08-06 160535" src="https://github.com/user-attachments/assets/8f956c82-358f-433c-b6a1-7e21d6355ac7" />
-
+<img width="1298" height="725" alt="Screenshot 2025-08-07 030108" src="https://github.com/user-attachments/assets/bf51db52-cc54-4714-a6d7-1edefb42e16b" />
 
 
 📌 Dashboard Features :- 
