@@ -4,51 +4,70 @@
 
 This Power BI dashboard provides an interactive visual representation of Ecommerce Sales Data, consolidated from two datasets. It enables business stakeholders to track and analyze key performance indicators (KPIs), sales trends, profit metrics, product categories, customer behavior, and regional performance.
 
-🗂️ Data Sources
-Sales Dataset
+📊 Ecommerce Sales Dashboard - Power BI
+🔍 Overview
+This Power BI dashboard provides an interactive visual representation of Ecommerce Sales Data, consolidated from two datasets. It enables business stakeholders to track and analyze key performance indicators (KPIs), sales trends, profit metrics, product categories, customer behavior, and regional performance.
 
-Fields: Order ID, Category, Sub-Category, Quantity, Amount, Profit, AOV, Date, Payment Mode
-
-Customer/Region Dataset
-
-Fields: Customer Name, Location (State), Region, Segment
 
 📌 Dashboard Features
-🔢 KPIs
-Total Sales Amount: ₹438K
+🔢 KPIs (Top Section)
+Sum of Amount: ₹438K
 
-Total Quantity Sold: 5615
+Sum of Quantity: 5615
 
-Total Profit: ₹37K
+Sum of Profit: ₹37K
 
-Average Order Value (AOV): ₹121K
+Sum of AOV (Average Order Value): ₹121K
 
-📊 Visual Components
-Profit by State: Highest in Maharashtra and Madhya Pradesh
 
-Quantity by Category: Clothing leads with 63% share
+📍 Visual Components
+1. Profit by State (Sub-Category)
+Highest profits from Maharashtra and Madhya Pradesh
+Lowest from Delhi
 
-Monthly Profit Trend: Losses in June, August, October, December
+2. Sum of Quantity by Category (Donut Chart)
+Clothing is the highest-selling category (63%)
 
-Customer Spend: Top spenders identified (e.g., Harivansh, Madan Mohan)
+Followed by Electronics (21%) and Furniture (17%)
 
-Payment Modes: COD most preferred (44%)
+3. Profit by Month (Bar Chart)
+Positive profits in months like January, March, November
 
-Profit by Product: Printers and Bookcases are most profitable
+Losses incurred in June, August, October, December
 
-🎯 Filters
-Quarter selection: Qtr 1 – Qtr 4
+4. Customer-wise Amount
+Top customers: Harivansh, Madan Mohan, Shiva
 
-Region filter: All/Individual States
+Shows individual spending behavior
+
+5. Quantity by Payment Mode (Donut Chart)
+Most used: Cash on Delivery (COD – 44%)
+
+Others: UPI (21%), Debit Card (13%), Credit Card (12%), EMI (10%)
+
+6. Profit by Sub-Category (Products)
+Top Profitable Items: Printers, Bookcases
+
+Moderate: Saree, Accessories, Tables
+
+
+🎯 Filters and Slicers
+Quarter Filter (Qtr 1 to Qtr 4)
+
+Region/State Filter (All or Specific)
+
+These allow dynamic interactivity for stakeholders to view metrics over time and across regions.
+
 
 🧠 Key Insights
-COD dominates payment preference
+Clothing dominates in terms of quantity sold, but Electronics and Furniture show strong sales as well.
 
-Clothing sells most by quantity but not always most profitable
+Cash on Delivery (COD) remains the most preferred payment mode, indicating trust issues or lack of digital penetration.
 
-Profit trends vary significantly across months
+Profitability is seasonal, with significant losses during certain months, suggesting the need for better inventory or discount strategies.
 
-Regional focus required for profitability optimization
+Regional profitability varies widely, requiring location-specific strategies.
+
 
 🖼️ Dashboard Screenshot
 <img width="1309" height="713" alt="Screenshot 2025-08-06 160535" src="https://github.com/user-attachments/assets/8f956c82-358f-433c-b6a1-7e21d6355ac7" />
