@@ -1,6 +1,8 @@
 # 📊 Ecommerce Sales Dashboard - Power BI
+
 🔍 Overview
-This Power BI dashboard provides a visual analysis of Ecommerce Sales Data, built from two datasets. It helps stakeholders monitor sales, profit, customer behavior, and regional performance through interactive and dynamic visualizations.
+
+This Power BI dashboard provides an interactive visual representation of Ecommerce Sales Data, consolidated from two datasets. It enables business stakeholders to track and analyze key performance indicators (KPIs), sales trends, profit metrics, product categories, customer behavior, and regional performance.
 
 🗂️ Data Sources
 Sales Dataset
