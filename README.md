@@ -9,6 +9,7 @@ This Power BI dashboard provides an interactive visual representation of Ecommer
 This Power BI dashboard provides an interactive visual representation of Ecommerce Sales Data, consolidated from two datasets. It enables business stakeholders to track and analyze key performance indicators (KPIs), sales trends, profit metrics, product categories, customer behavior, and regional performance.
 
 
+
 📌 Dashboard Features
 🔢 KPIs (Top Section)
 Sum of Amount: ₹438K
@@ -18,6 +19,7 @@ Sum of Quantity: 5615
 Sum of Profit: ₹37K
 
 Sum of AOV (Average Order Value): ₹121K
+
 
 
 📍 Visual Components
@@ -51,12 +53,14 @@ Top Profitable Items: Printers, Bookcases
 Moderate: Saree, Accessories, Tables
 
 
+
 🎯 Filters and Slicers
 Quarter Filter (Qtr 1 to Qtr 4)
 
 Region/State Filter (All or Specific)
 
 These allow dynamic interactivity for stakeholders to view metrics over time and across regions.
+
 
 
 🧠 Key Insights
